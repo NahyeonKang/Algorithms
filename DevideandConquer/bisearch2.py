@@ -15,21 +15,26 @@ for _ in range(t):
                 a = index
                 index = (a + b) // 2
                 if a == index:
-                    index = -1
-                    break
+                    if index == 0 and i < n[index]:
+                        break
+                    elif abs(n[index] - i) > abs(i - n[index-1]):
+                        index -= 1
+                        break
+                    else:
+                        break
             elif n[index] < i:
                 b = index
                 index = (a + b) // 2
                 if b == index:
-                    if n[index+1] == i:
-                        index = index + 1
+                    if abs(i - n[index]) > abs(n[index+1] - i):
+                        index += 1
                         break
                     else:
-                        index = -1
                         break
-        answer.append(index)
+        answer.append(n[index])
 
     print(*answer)
+
 
 
 
