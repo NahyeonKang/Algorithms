@@ -14,3 +14,5 @@
 ![image](https://user-images.githubusercontent.com/24906028/176630596-350a64e2-c0f7-4b85-baec-00595f1d9f7a.png)
 # ticket.py
 ![image](https://user-images.githubusercontent.com/24906028/176630742-5b8d8494-8b4d-42d6-b2b3-58cc55a03a00.png)
+# lanvirus.py
+![image](https://user-images.githubusercontent.com/24906028/177468463-5118d809-afb2-41f3-af47-f50c980eba58.png)
