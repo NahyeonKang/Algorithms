@@ -12,3 +12,5 @@
 ![image](https://user-images.githubusercontent.com/24906028/176629093-e2354e02-024b-4d0e-8080-dffa1d78c82e.png)
 # closestpoints.py
 ![image](https://user-images.githubusercontent.com/24906028/176629000-981201b5-ded7-481e-a864-548c3672c736.png)
+# bisearch6.py
+![image](https://user-images.githubusercontent.com/24906028/177468531-a8c07683-0c41-49da-b522-cc6cfed4e2ab.png)
