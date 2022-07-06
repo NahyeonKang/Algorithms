@@ -14,3 +14,5 @@
 ![image](https://user-images.githubusercontent.com/24906028/176629000-981201b5-ded7-481e-a864-548c3672c736.png)
 # bisearch6.py
 ![image](https://user-images.githubusercontent.com/24906028/177468531-a8c07683-0c41-49da-b522-cc6cfed4e2ab.png)
+# sequence.py
+![image](https://user-images.githubusercontent.com/24906028/177468767-0dc41ab1-a739-43cb-906a-a11088e341df.png)
